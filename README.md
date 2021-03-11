@@ -3,7 +3,7 @@ The game is basically a game in which you have to try to click on a shape that a
 
 The sheet is locked with a password, the password to unlock is - *password*
 
-**The game statistics includes**
+**Game statistics includes**
 - Score
 - Highest Score
 - Total Matches
